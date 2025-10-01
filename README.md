@@ -41,6 +41,8 @@ streamlit run app.py
 
 This command will start a local server and open the application in your default web browser (usually at `http://localhost:8501`).
 
+You can also view the deployed application here: [https://aiothw1-candy.streamlit.app](https://aiothw1-candy.streamlit.app)
+
 ## Usage
 
 *   Use the sliders in the sidebar to adjust the **Slope (a)**, **Noise**, and **Number of Points**.
